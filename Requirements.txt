@@ -1,0 +1,6 @@
+streamlit
+sqlalchemy
+pymysql
+langchain
+openai
+pandas
