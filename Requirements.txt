@@ -1,7 +1,0 @@
-streamlit
-sqlalchemy
-pymysql
-langchain
-langchain-openai
-openai
-pandas
