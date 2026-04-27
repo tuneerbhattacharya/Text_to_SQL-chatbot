@@ -1,0 +1,13 @@
+streamlit
+sqlalchemy==2.0.25
+pymysql
+psycopg2-binary
+langchain
+langchain-openai
+langchain-community
+langchain-core
+openai
+pandas
+faiss-cpu
+reportlab
+supabase
